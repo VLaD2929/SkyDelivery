@@ -10,9 +10,10 @@
         background-color: #0aa8e2;
     }
     .header{
-       margin: 0 ; 
-       text-align: right;
-      padding: 40px 10px;
+     margin: 0 ; 
+     text-align: right;
+     padding: 40px 10px;
+	    color:#fff;
     }
     #company{
     height: 1100px;
